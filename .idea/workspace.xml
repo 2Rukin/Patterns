@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7546d594-7265-4357-af00-80e5a227ce91" name="Changes" comment="patterns">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/AuctionSiteProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Banking/BankingPM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Banking/BankingTeamFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Banking/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Banking/QATester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ProjectManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ProjectTeamFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/SuperBankSysytem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/wesite/ManualTeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/wesite/PhpDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/wesite/WebSitePm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/wesite/WebSiteTeamFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/GuiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/JetBlackButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/JetBlackFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/JetBlackScrollBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/JetBlackTextArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/RoseGoldButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/RoseGoldFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/RoseGoldScrollBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/RoseGoldTextArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/ScrollBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/TextArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryDolgov/Widjet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderDolgov/AndroidExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/DeveloperDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/JavaTeamLead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/SenjorJavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorDolgov/Baking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorDolgov/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorDolgov/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorDolgov/Cream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorDolgov/Goodies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorDolgov/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HZkR7Ipx2GgSBrU8Q9zFtUKoBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="AbstractFactoryDolgov" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AbstractFactoryDolgov" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7546d594-7265-4357-af00-80e5a227ce91" name="Changes" comment="" />
+      <created>1668499986869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668499986869</updated>
+      <workItem from="1668499988627" duration="13541000" />
+      <workItem from="1668576008158" duration="12636000" />
+      <workItem from="1668666983102" duration="4929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="patterns" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
